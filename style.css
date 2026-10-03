@@ -360,7 +360,6 @@ footer p,
 }
 
 @media (max-width: 900px) {
-
     nav {
         display: none;
     }
@@ -397,9 +396,7 @@ footer p,
     }
 }
 
-
 @media (max-width: 550px) {
-
     .header {
         padding: 0 5%;
     }
